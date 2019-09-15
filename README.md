@@ -6,7 +6,7 @@ Willkommen! Dieses geführte Tutorial zeigt dir, wie du ein Skript programmierst
 
 ## ~
 
-![](/static/mb/projects/a5-compass.png)
+![](compass.png)
 
 Zeigt die Himmelsrichtung an, in der der @boardname@ mit dem Kompass ausgerichtet ist.
 
@@ -54,7 +54,7 @@ basic.forever(() => {
         basic.showString("N");
     }
     else if (gradzahl < 135) {
-        basic.showString("E");
+        basic.showString("O");
     }
 });
 ```
@@ -70,7 +70,7 @@ basic.forever(() => {
         basic.showString("N");
     }
     else if (gradzahl < 135) {
-        basic.showString("E");
+        basic.showString("O");
     }
     else if (gradzahl < 225) {
         basic.showString("S");
@@ -89,7 +89,7 @@ basic.forever(() => {
         basic.showString("N");
     }
     else if (gradzahl < 135) {
-        basic.showString("E");
+        basic.showString("O");
     }
     else if (gradzahl < 225) {
         basic.showString("S");
