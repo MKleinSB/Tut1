@@ -54,7 +54,7 @@ basic.forever(() => {
         basic.showString("N");
     }
     else if (gradzahl < 135) {
-        basic.showString("E");
+        basic.showString("O");
     }
 });
 ```
@@ -70,7 +70,7 @@ basic.forever(() => {
         basic.showString("N");
     }
     else if (gradzahl < 135) {
-        basic.showString("E");
+        basic.showString("O");
     }
     else if (gradzahl < 225) {
         basic.showString("S");
@@ -89,7 +89,7 @@ basic.forever(() => {
         basic.showString("N");
     }
     else if (gradzahl < 135) {
-        basic.showString("E");
+        basic.showString("O");
     }
     else if (gradzahl < 225) {
         basic.showString("S");
