@@ -6,7 +6,7 @@ Willkommen! Dieses geführte Tutorial zeigt dir, wie du ein Skript programmierst
 
 ## ~
 
-![](compass.png)
+![](https://github.com/MKleinSB/Tut1/blob/master/compass.png)
 
 Zeigt die Himmelsrichtung an, in der der @boardname@ mit dem Kompass ausgerichtet ist.
 
