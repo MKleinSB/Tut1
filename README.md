@@ -2,13 +2,7 @@
 
 ## ~avatar avatar
 
-Willkommen! Dieses geführte Tutorial zeigt dir, wie du ein Skript programmierst, das anzeigt, in welche Himmelsrichtung dein @boardname@ zeigt. Fangen wir an!
-
-## ~
-
-![](https://github.com/MKleinSB/Tut1/blob/master/compass.png)
-
-Zeigt die Himmelsrichtung an, in der der @boardname@ mit dem Kompass ausgerichtet ist.
+Willkommen! Dieses geführte Tutorial zeigt dir, wie du ein Skript programmierst das anzeigt, in welche Himmelsrichtung dein @boardname@ zeigt. Fangen wir an!
 
 ## Schritt 1
 
@@ -99,3 +93,8 @@ basic.forever(() => {
     }
 });
 ```
+
+## Schritt 7
+
+Lade jetzt das Programm auf deinen @boardname@ und teste ob es so funktioniert wie gewünscht!
+
