@@ -14,7 +14,7 @@ basic.forever(() => {
 })
 ```
 
-## Schritt 2
+## Schritt 2 @fullscreen
 
 Speichere den ausgelesenen Wert des @boardname@ in einer Variablen mit dem Namen `gradzahl`.
 
@@ -24,7 +24,7 @@ basic.forever(() => {
 })
 ```
 
-## Schritt 3
+## Schritt 3 @fullscreen
 
 Wenn `gradzahl` kleiner als `45` oder größer als `315` ist, dann zeigt die Kompassrichtung hauptsächlich in Richtung **Norden**. Zeige ein `N` auf dem @boardname@ an.
 
@@ -94,7 +94,7 @@ basic.forever(() => {
 });
 ```
 
-## Schritt 7
+## Schritt 7 @tutorialCompleted
 
 Lade jetzt das Programm auf deinen @boardname@ und teste ob es so funktioniert wie gewünscht!
 
