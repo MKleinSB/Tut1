@@ -3,7 +3,7 @@
 ## ~avatar avatar
 
 Willkommen! Dieses geführte Tutorial zeigt dir, wie du ein Skript programmierst das anzeigt, in welche Himmelsrichtung dein @boardname@ zeigt. Fangen wir an!
-
+![Kompass] (https://github.com/MKleinSB/pxt-Tut1/blob/master/static/compass.png)
 ## Schritt 1
 
 Erstelle eine Schleife, die kontinuierlich den Messwert des Kompasses auswertet.
